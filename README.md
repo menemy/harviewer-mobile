@@ -20,7 +20,7 @@ But sometimes you need to investigate such files from mobile/tablet. So, it is m
 * Detailed view of requests and responses
 
 ### 4 Screens
-<img src="./examples/files.png" width=200">
+<img src="./examples/files.png" width="200">
 <img src="./examples/file.png" width="200">
 <img src="./examples/details.png" width="200">
 <img src="./examples/request.png" width="200">
