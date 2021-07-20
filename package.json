@@ -14,7 +14,7 @@
     "babel-plugin-styled-components": "^1.10.6",
     "native-base": "^2.13.8",
     "react": "16.9.0",
-    "react-native": "0.61.2",
+    "react-native": "0.62.3",
     "react-native-dotenv": "^0.2.0",
     "react-native-easy-grid": "^0.2.2",
     "react-native-fs": "^2.16.2",
